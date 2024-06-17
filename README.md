@@ -10,7 +10,7 @@ Hello! I'm Aaron, a passionate [Your Profession] with experience in [Your Fields
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aaron-ct/)
 
-## 🔭 Cybersecurity Projects
+## 💻 Cybersecurity Projects
 
 Here are some of the projects I have worked on:
 
