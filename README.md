@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-![Header](https://user-images.githubusercontent.com/your-username/header-image.jpg)
+![Header](https://via.placeholder.com/800x200/000000/FFFFFF/?text=WELCOME)
 
 ## About Me
 
