@@ -7,6 +7,7 @@
 Hello! I'm Aaron, a passionate [Your Profession] with experience in [Your Fields or Technologies]. I love working on innovative projects and am always eager to learn and improve my skills.
 
  Connect with me on
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aaron-ct/)
 
 ## 🔭 Projects
